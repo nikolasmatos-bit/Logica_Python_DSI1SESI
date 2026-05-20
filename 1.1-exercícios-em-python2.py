@@ -27,7 +27,6 @@ valor = float("-3.14")
 print("Resultado:", valor * 2)
 print("Tipo da variável valor:", type(valor))
 
-
 # EX4
 # Tente converter a string "cento e vinte"
 # para inteiro e observe o que acontece.
