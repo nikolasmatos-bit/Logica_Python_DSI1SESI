@@ -70,5 +70,7 @@ print("Do 2 até o fim", st[2:1])
 
 print ("Tamanho", len(st))
 
+
+
       
 
