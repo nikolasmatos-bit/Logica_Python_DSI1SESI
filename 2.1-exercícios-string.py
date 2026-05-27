@@ -1,4 +1,4 @@
-```python
+
 # ======================================================
 # MÓDULO 1 — CRIAÇÃO DE STRINGS
 # ======================================================
@@ -16,7 +16,7 @@ texto3 = 'copa "padrão fifa"'
 print(texto3)
 
 # EX4
-texto4 = "copa 'padrão fifa'"
+texto4 = "copa 'padrão fifa'" 
 print(texto4)
 
 
@@ -84,4 +84,4 @@ print(st[::2])
 
 # EX17
 print(st[::-1])
-```
+
